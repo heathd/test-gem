@@ -1,5 +1,5 @@
 PATH
-  remote: gems/test-gem
+  remote: test-gem
   specs:
     test-gem (0.1)
 
